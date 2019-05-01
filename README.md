@@ -12,7 +12,7 @@ We wanted to add something unique to our project, and felt this would be a good 
 - Chrome API
 
 ## Installation and Usage
-If you want to use this app, you have to install it in your browser, and here is how you go about doing that.
+If you want to use this app, you have to add the extension to your browser. 
 
 1. Fork the repository and clone it to your local machine (make sure you know what folder the files are in)
 2. Head to your browser, click the three vertical dots in the upper right hand corner. Then click 'more tools', and then 'extensions'.
