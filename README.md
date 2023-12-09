@@ -12,10 +12,10 @@ We wanted to add something unique to our project, and felt this would be a good 
 ## Installation and Usage
 If you want to use this app, you have to add the extension to your browser. 
 
-1. Fork the repository and clone it to your local machine (make sure you know what folder the files are in)
+1. Fork the repository and clone it to your local machine (make sure you know what folder the files are in).
 2. Head to your browser, click the three vertical dots in the upper right hand corner. Then click 'more tools', and then 'extensions'.
 3. Turn on developer mode, and then click 'load unpacked' in the top left corner. The extension should now be in your browser beside the searh bar. 
 4. Right click the extension and then click 'options' and this will bring you to a screen where you can set which 'tag' you would like to use for data you are going to save to the application. 
 5. Once this is done you can highlight text on any screen, right click the screen and hit 'save to cache-it'. This will store the informtion you higlighted, with the URL of the page, and the tag you chose during configuration. 
-6. If you want to change the tag, just repeat step 4
+6. If you want to change the tag, just repeat step 4.
 
