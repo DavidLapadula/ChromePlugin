@@ -1,5 +1,5 @@
 ## Cache it Chrome Extension
-This is a project add on to a larger application called cache it. That applicatio allows users to stire information they find interesting, along with a URL and a 'tag'. This chrome extension allows users to di this from outside the application. Users can highlight text from any website and send it directly to our main application. 
+This is a project add on to a larger application called cache it. That application allows users to save information they find interesting, along with a URL and a 'tag'. This chrome extension allows users to do this from outside the application. Users can highlight text from any website and send it directly to our main application. 
 
 ## Motivation
 We wanted to add something unique to our project, and felt this would be a good way to explore new technologies and add a useful feature to the application. Furthermore we believed that an application designed for users to store data should not require  users be on the webiste when saving information. This user experience pitfall is overcome by our chrome extension, as it enables this core feature of our app to remain functional from any browser window
